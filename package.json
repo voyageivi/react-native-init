@@ -1,0 +1,16 @@
+{
+  "name": "react-native-init",
+  "version": "1.0.0",
+  "description": "react常用的包, 简易安装依赖",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-button":"git+https://github.com/ide/react-native-button",
+    "react-native-router-flux":"git+https://github.com/voyageivi/react-native-router-flux",
+    "react-native-scrollable-tab-view": "git+https://github.com/voyageivi/react-native-scrollable-tab-view",
+  },
+}
