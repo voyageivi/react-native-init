@@ -11,6 +11,6 @@
   "dependencies": {
     "react-native-button":"git+https://github.com/ide/react-native-button",
     "react-native-router-flux":"git+https://github.com/voyageivi/react-native-router-flux",
-    "react-native-scrollable-tab-view": "git+https://github.com/voyageivi/react-native-scrollable-tab-view"
+    "react-native-gifted-listview": "git+https://github.com/voyageivi/react-native-gifted-listview"
   }
 }
